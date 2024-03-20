@@ -1,0 +1,27 @@
+Experimenting with Cognitive Weights:
+	Average accuracy for Cognitive Weight of 0.25, after 10 runs: 98.286%
+	Average accuracy for Cognitive Weight of 0.50, after 10 runs: 98.395%
+	Average accuracy for Cognitive Weight of 0.75, after 10 runs: 98.053%
+	Average accuracy for Cognitive Weight of 1.00, after 10 runs: 98.454%
+	Average accuracy for Cognitive Weight of 1.25, after 10 runs: 98.060%
+	Average accuracy for Cognitive Weight of 1.50, after 10 runs: 97.206%
+	Average accuracy for Cognitive Weight of 1.75, after 10 runs: 97.425%
+	Average accuracy for Cognitive Weight of 2.00, after 10 runs: 96.761%
+Experimenting with Social Weights:
+	Average accuracy for Social Weight of 0.25, after 10 runs: 99.876%
+	Average accuracy for Social Weight of 0.50, after 10 runs: 100.000%
+	Average accuracy for Social Weight of 0.75, after 10 runs: 99.898%
+	Average accuracy for Social Weight of 1.00, after 10 runs: 98.352%
+	Average accuracy for Social Weight of 1.25, after 10 runs: 98.009%
+	Average accuracy for Social Weight of 1.50, after 10 runs: 96.732%
+	Average accuracy for Social Weight of 1.75, after 10 runs: 95.981%
+	Average accuracy for Social Weight of 2.00, after 10 runs: 96.149%
+Experimenting with Global Weights:
+	Average accuracy for Global Weight of 0.25, after 10 runs: 97.411%
+	Average accuracy for Global Weight of 0.50, after 10 runs: 97.564%
+	Average accuracy for Global Weight of 0.75, after 10 runs: 97.834%
+	Average accuracy for Global Weight of 1.00, after 10 runs: 97.119%
+	Average accuracy for Global Weight of 1.25, after 10 runs: 96.907%
+	Average accuracy for Global Weight of 1.50, after 10 runs: 96.090%
+	Average accuracy for Global Weight of 1.75, after 10 runs: 96.470%
+	Average accuracy for Global Weight of 2.00, after 10 runs: 95.573%
